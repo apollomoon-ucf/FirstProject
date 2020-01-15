@@ -17,6 +17,9 @@ public class FirstProgram
     // print requires a new line char at the end just like C
     System.out.print("Hello again everyone!\n");
 
+    // testing new output for github
+    System.out.println("Testing new changes for github\n");
+
     // basic arithmetic
     System.out.println(10 + 12);
     System.out.println(10 / 12);
